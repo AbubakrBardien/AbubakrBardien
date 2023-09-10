@@ -15,7 +15,7 @@
 
 ## LeetCode Stats
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/Abubakr030109)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Abubakr030109?hide=ranking)
 <!--
 ## Ways to Contact Me
 

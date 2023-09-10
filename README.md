@@ -1,4 +1,4 @@
-## Languages and Tools I work with:
+## 💻 Languages and Tools I work with:
 
 ![C++](https://img.shields.io/badge/C%2B%2B-%23aecae6?style=for-the-badge&logo=cplusplus&logoColor=%2300599C)
 ![Java](https://img.shields.io/badge/Java-%23f89820?style=for-the-badge)
@@ -7,7 +7,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 ![VSCode](https://img.shields.io/badge/VSCode-black?style=for-the-badge&logo=visualstudiocode&logoColor=%23007ACC)
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <a href="http://www.github.com/Abubakr030109"><img src="https://github-readme-stats.vercel.app/api?username=Abubakr030109&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="Abubakr030109's GitHub stats" /></a>
 

@@ -11,7 +11,7 @@
 
 <a href="http://www.github.com/Abubakr030109"><img src="https://github-readme-stats.vercel.app/api?username=Abubakr030109&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="Abubakr030109's GitHub stats" /></a>
 
-<a href="http://www.github.com/Abubakr030109"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Abubakr030109&stroke=ffffff&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Abubakr030109&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ## LeetCode Stats
 

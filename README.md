@@ -6,6 +6,8 @@
 ![Git](https://img.shields.io/badge/Git-%23e8e8e8?style=for-the-badge&logo=git&logoColor=%23F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 ![VSCode](https://img.shields.io/badge/VSCode-black?style=for-the-badge&logo=visualstudiocode&logoColor=%23007ACC)
+![Jupyter](https://img.shields.io/badge/Jupyter-black?style=for-the-badge&logo=jupyter)
+
 
 ## GitHub Stats
 

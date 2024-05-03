@@ -1,4 +1,4 @@
-## Languages and Tools I work with
+## Languages and Tools I've worked with
 
 ![C++](https://img.shields.io/badge/C%2B%2B-%23aecae6?style=for-the-badge&logo=cplusplus&logoColor=%2300599C)
 ![Java](https://img.shields.io/badge/Java-%23f89820?style=for-the-badge)

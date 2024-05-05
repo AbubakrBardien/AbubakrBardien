@@ -12,8 +12,8 @@
 ## GitHub Stats
 
 <div>
-<a href="http://www.github.com/AbubakrBardien"><img height=180 src="https://github-readme-stats.vercel.app/api?username=AbubakrBardien&show_icons=true&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&border_color=474039&disable_animations=true" alt="GitHub Stats" /></a>
-<img height=180 src="https://github-readme-streak-stats-wheat-rho.vercel.app?user=AbubakrBardien&theme=dark&background=1c1917&border=474039&date_format=j%20M%5B%20Y%5D&disable_animations=true" alt="GitHub Streak"/>
+<a href="http://www.github.com/AbubakrBardien"><img height=160 src="https://github-readme-stats.vercel.app/api?username=AbubakrBardien&show_icons=true&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&border_color=474039&disable_animations=true" alt="GitHub Stats" /></a>
+<img height=160 src="https://github-readme-streak-stats-wheat-rho.vercel.app?user=AbubakrBardien&theme=dark&background=1c1917&border=474039&date_format=j%20M%5B%20Y%5D&disable_animations=true" alt="GitHub Streak"/>
 </div>
 
 <!--

@@ -11,19 +11,17 @@
 
 ## GitHub Stats
 
-<a href="http://www.github.com/AbubakrBardien"><img src="https://github-readme-stats.vercel.app/api?username=AbubakrBardien&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="AbubakrBardien's GitHub stats" /></a>
+<div>
+<a href="http://www.github.com/AbubakrBardien"><img src="https://github-readme-stats.vercel.app/api?username=AbubakrBardien&show_icons=true&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&border_color=474039&disable_animations=true" alt="GitHub Stats" /></a>
+<img src="https://github-readme-streak-stats-wheat-rho.vercel.app?user=AbubakrBardien&theme=dark&background=1c1917&border=474039&date_format=j%20M%5B%20Y%5D&disable_animations=true" alt="GitHub Streak"/>
+</div>
 
-[![GitHub Streak](https://github-readme-streak-stats-wheat-rho.vercel.app?user=AbubakrBardien&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-## LeetCode Stats
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/Abubakr030109?hide=ranking)
 <!--
 ## Ways to Contact Me
-
 <a href="https://www.linkedin.com/in/abubakr-bardien"/><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:abubakrbardien@gmail.com?subject=Hello%20Abubakr,%20From%20Github"><img src="https://img.shields.io/badge/Gmail-%23e8e8e8?style=flat-square&logo=gmail"></a>
 -->
+
 Still a work in progress
 
 ![Profile Views](https://img.shields.io/github/watchers/abubakr030109/abubakr030109?label=Profile%20Views&style=flat-square)

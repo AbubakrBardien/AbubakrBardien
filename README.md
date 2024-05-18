@@ -23,5 +23,3 @@
 -->
 
 Still a work in progress
-
-![Profile Views](https://img.shields.io/github/watchers/abubakr030109/abubakr030109?label=Profile%20Views&style=flat-square)

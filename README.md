@@ -16,10 +16,6 @@
 <img height=160 src="https://github-readme-streak-stats-wheat-rho.vercel.app?user=AbubakrBardien&theme=dark&background=1c1917&border=474039&date_format=j%20M%5B%20Y%5D&disable_animations=true" alt="GitHub Streak"/>
 </div>
 
-<!--
 ## Ways to Contact Me
 <a href="https://www.linkedin.com/in/abubakr-bardien"/><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:abubakrbardien@gmail.com?subject=Hello%20Abubakr,%20From%20Github"><img src="https://img.shields.io/badge/Gmail-%23e8e8e8?style=flat-square&logo=gmail"></a>
--->
-
-Still a work in progress

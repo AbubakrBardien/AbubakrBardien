@@ -2,6 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-%23222222?style=for-the-badge&logo=python&logoColor=%233776AB)
 ![Bash](https://img.shields.io/badge/Bash-%23e8e8e8?style=for-the-badge&logo=gnu%20bash&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-%23222222?style=for-the-badge&logo=c%2B%2B&logoColor=%231f93f0)
 
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23222222?style=for-the-badge&logo=jupyter)
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-%23222222?style=for-the-badge&logo=arch%20linux&logoColor=%231793D1)

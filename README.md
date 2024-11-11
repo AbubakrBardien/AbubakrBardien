@@ -1,12 +1,11 @@
-## Languages and Tools I've worked with
+## Languages and Tools I'm profiecient in
 
-![C++](https://img.shields.io/badge/C%2B%2B-%23aecae6?style=for-the-badge&logo=cplusplus&logoColor=%2300599C)
-![Java](https://img.shields.io/badge/Java-%23f89820?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-%23afc8e0?style=for-the-badge&logo=python&logoColor=%233776AB)
-![Git](https://img.shields.io/badge/Git-%23e8e8e8?style=for-the-badge&logo=git&logoColor=%23F05032)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![VSCode](https://img.shields.io/badge/VSCode-black?style=for-the-badge&logo=visualstudiocode&logoColor=%23007ACC)
-![Jupyter](https://img.shields.io/badge/Jupyter-black?style=for-the-badge&logo=jupyter)
+![Python](https://img.shields.io/badge/Python-%23222222?style=for-the-badge&logo=python&logoColor=%233776AB)
+![Bash](https://img.shields.io/badge/Bash-%23e8e8e8?style=for-the-badge&logo=gnu%20bash&logoColor=black)
+
+![Jupyter](https://img.shields.io/badge/Jupyter-%23222222?style=for-the-badge&logo=jupyter)
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-%23222222?style=for-the-badge&logo=arch%20linux&logoColor=%231793D1)
+![Neovim](https://img.shields.io/badge/Neovim-%23222222?style=for-the-badge&logo=neovim&logoColor=%2357A143)
 
 
 ## GitHub Stats

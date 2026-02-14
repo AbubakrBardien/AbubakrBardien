@@ -16,18 +16,23 @@
 <img height=160 src="https://github-readme-streak-stats-wheat-rho.vercel.app?user=AbubakrBardien&theme=dark&background=1c1917&border=474039&date_format=j%20M%5B%20Y%5D&disable_animations=true" alt="GitHub Streak"/>
 </div>
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" valign="middle">
-        <img height="170" src="./profile/stats.svg" alt="GitHub Stats" />
-      </td>
-      <td align="center" valign="middle">
-        <img height=160 src="https://github-readme-streak-stats-wheat-rho.vercel.app?user=AbubakrBardien&theme=dark&background=1c1917&border=474039&date_format=j%20M%5B%20Y%5D&disable_animations=true" alt="GitHub Streak"/>
-      </td>
-    </tr>
-  </table>
-</div>
+<!-- <div align="center"> -->
+<!--   <table> -->
+<!--     <tr> -->
+<!--       <td align="center" valign="middle"> -->
+<!--         <img height="170" src="./profile/stats.svg" alt="GitHub Stats" /> -->
+<!--       </td> -->
+<!--       <td align="center" valign="middle"> -->
+<!--         <img height=160 src="https://github-readme-streak-stats-wheat-rho.vercel.app?user=AbubakrBardien&theme=dark&background=1c1917&border=474039&date_format=j%20M%5B%20Y%5D&disable_animations=true" alt="GitHub Streak"/> -->
+<!--       </td> -->
+<!--     </tr> -->
+<!--   </table> -->
+<!-- </div> -->
+
+<p align="center">
+  <img alt="GitHub Stats" height="170" style="vertical-align: middle;" src="./profile/stats.svg" />
+  <img alt="GitHub Streak" height="160" style="vertical-align: middle; margin-left: 10px;" src="https://github-readme-streak-stats-wheat-rho.vercel.app?user=AbubakrBardien&theme=dark&background=1c1917&border=474039&date_format=j%20M%5B%20Y%5D&disable_animations=true"/>
+</p>
 
 <!--Add LeetCode stats card in the future, if it's impressive. The repo to do that is in your collection of starred repos.-->
 

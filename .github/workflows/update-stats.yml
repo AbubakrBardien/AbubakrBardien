@@ -18,7 +18,7 @@ jobs:
         with:
           card: stats
           # Add your options here (same as the URL parameters)
-          options: username=AbubakrBardien&show_icons=true&theme=dark
+          options: username=AbubakrBardien&show_icons=true&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&border_color=474039&disable_animations=true
           path: profile/stats.svg
           token: ${{ secrets.GH_TOKEN }}
 

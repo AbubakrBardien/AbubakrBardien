@@ -14,6 +14,7 @@
 <div>
 <img src="./profile/stats.svg" alt="GitHub Stats" height="170" />
 <img height=160 src="https://github-readme-streak-stats-wheat-rho.vercel.app?user=AbubakrBardien&theme=dark&background=1c1917&border=474039&date_format=j%20M%5B%20Y%5D&disable_animations=true" alt="GitHub Streak"/>
+<img height="160" src="./profile/streak.svg" alt="GitHub Streak"/>
 </div>
 
 <!--Add LeetCode stats card in the future, if it's impressive. The repo to do that is in your collection of starred repos.-->
